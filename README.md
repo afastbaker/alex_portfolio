@@ -11,7 +11,7 @@ This is a brief portfolio of me and includes my name, a pic of me, some projects
 ## Setup/Installation Requirements
 
 * Open terminal and create a new directory folder for this project called alex_portfolio
-* In the directory create folders via terminal called css and img. Then create a new HTML file called alex-page.html .
+* In the directory create folders via terminal called css and img. Then create a new HTML file called alex-page.html 
 * Write code in html page for basic elements including tags such as p, h, ul, ol, stong, a, and img.
 * Commit regular updates and push to Github by creating a remote repository.
 * Publish to Github pages  [link to Github page] (http://afastbaker.github.io/alex-page)
